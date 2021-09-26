@@ -27,7 +27,7 @@ def ValidatePassword(Pass):
     
 
 Pass = str
-valid = bool
+Valid = bool
 
 Pass = (input("Enter your password: "))
 
